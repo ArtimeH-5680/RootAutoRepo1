@@ -1,0 +1,80 @@
+Driver Henry
+Driver Mary   
+Driver Joan 
+Driver Jumi
+Driver larry
+Driver MariaFromSpain 
+Driver Daniel
+Trip Dan 07:15   07:30 20.3
+Trip Dan 8:15   13:00  40.4 
+Trip MariaFromSpain 02:00 03:00 40.0
+Trip Dan  08:15 07:15 20.3 
+Trip &%$#D 09:15 11:15 30.3
+Trip Dan  09:00 10:00 05.3
+Driver B*&%$
+Driver Dan
+Trip Joe 04:15 05:00 40.0 
+Trip Dan  4:15 10:00 20.4
+Trip Henry 12:00 14:00  200.0
+trip Henry 05:00 11:00 55.0 
+Trip Joan  05:00 11:00 20.0 
+Trip Joan  07:34 13:34 80.0
+Trip Joan bb&00 13:34 40.0  
+Trip Jose 04:10 05:30 12:00
+Driver Juan
+Driver David
+Driver Chi- 
+Driver Fast
+Trip Fast 00:00 00:01 5.9
+Trip Juan 01:00 23:59 100.0 
+Trip Juan 04:00 07:00 abc.0 
+Trip Juan 11:00 14:00 45.8
+Trip David 01:10 22:10 999.99
+// Driver Donald experienced vehicle problems! 
+Driver Donald
+Trip Donald 13:00 14:00 0.0
+Trip David 02:20 23:59 999.00
+Trip David  01:01 23:59 999.9
+Trip Dan2   12:00 14:00 60.0
+Trip Daniel 01:00 00:00 
+Trip Daniel 00:00 05:00 20.0
+Driver Daniel
+Trip Daniel 00:00 00:00 300.9
+Driver Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+Trip Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  00:00 05:00 100.7
+Trip Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm   14:30 19:10 200.5 
+Driver Oliver 
+Trip Oliver    13:00   15:20 60.3
+Trip Oliver 00.00 25.00 100.0
+Driver Moe
+Trip Moe 00.00 00.00 1000.0
+Trip Moe 14:00 14:30  37.8 
+Driver Moe
+Trip Moe 00:00 05:00  30.0
+Trip Moe 14:00 14:30  37.8
+Driver Thomas 
+Trip 
+Trip Thomas 05:00 09:00 150.1 
+Trip Thomas 10:15 12:00 111.00
+Driver
+Trip Thomas 12 59 14:00 60.9
+Driver Over 
+Trip Over 13:30 16:30 70.3 
+Trip Over 14:30 16:30 70.3
+Trip Moe 14:00 16:30  60.8
+Trip Moe 11:00 13:00  60.8
+Driver Louis
+Trip Louis 07:43 08.50 55.6
+Trip Louis 09:15 12:30 70.3 
+Trip Louis 13:00 15:30 100.0
+Driver Joe
+Trip Joe 02:40 00:00 740.0
+
+ 
+
+
+
+
+
+
+
